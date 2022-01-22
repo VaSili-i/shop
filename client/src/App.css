@@ -1,0 +1,21 @@
+.btnNavBar{
+  margin-left: 4px;
+}
+
+.boxAuth{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+}
+.formAuth{
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  border: inset;
+  padding: 15px;
+}
+.btnForm{
+    align-self: flex-end;
+}
